@@ -218,6 +218,6 @@ synent-task1-data-cleaning-processing-yourname/
 
 # 👨‍💻 Author
 
-**Shaurtya**
+**Shaurya**
 
 **Synent Technologies – Data Science Internship**
